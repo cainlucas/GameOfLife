@@ -1,24 +1,29 @@
-# new
+# game-of-life
 
 ## Project setup
+
 ```
 npm install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
-npm run serve
+npm serve
 ```
 
 ### Compiles and minifies for production
+
 ```
-npm run build
+npm build
 ```
 
 ### Lints and fixes files
+
 ```
-npm run lint
+npm lint
 ```
 
 ### Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
