@@ -3,7 +3,7 @@
     <h1>
       Welcome to the
       <a
-        href="https://codingdojo.org/kata/GameOfLife/"
+        href="https://playgameoflife.com/"
         target="_blank"
         rel="noopener"
         >Game of Life</a
